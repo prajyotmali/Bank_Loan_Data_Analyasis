@@ -10,9 +10,9 @@ This repository contains a comprehensive analysis of bank loan data. The project
 
 ### Visualization & Dashboards
 - **Financial_Bank_Loan_Project.pbix** - Power BI dashboard file with interactive visualizations
-- **Bank_loan1.png** - <img width="586" height="326" alt="Bank_loan1" src="https://github.com/user-attachments/assets/a7175968-3153-45bf-a4b4-fe20e68633d1" />
+ - <img width="586" height="326" alt="Bank_loan1" src="https://github.com/user-attachments/assets/a7175968-3153-45bf-a4b4-fe20e68633d1" />
 
-- **Bank_loan2.png** - <img width="586" height="326" alt="Bank_loan2" src="https://github.com/user-attachments/assets/2da2b3a2-fca6-41ce-9968-c6398d8d7260" />
+ - <img width="586" height="326" alt="Bank_loan2" src="https://github.com/user-attachments/assets/2da2b3a2-fca6-41ce-9968-c6398d8d7260" />
 
 
 ## Key Features
